@@ -1,0 +1,1 @@
+To set a custom message to appear above the password form provided by the plugin "Password Protected," visit the plugin's settings screen at WP Admin > Settings > Password Protected.
